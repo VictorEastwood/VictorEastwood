@@ -1,18 +1,19 @@
-# Getting Started
+# Personal Home
 
-👋 Welcome to Notion!
+Organize everything in your life in one place.
 
-Here are the basics:
+## Daily
 
-- [ ]  Click anywhere and just start typing
-- [ ]  Hit **/** to see all the types of content you can add - headers, videos, sub pages, etc.
-- [ ]  Highlight any text, and use the menu that pops up to **style** *your* ~~writing~~ `however` [you](https://www.notion.so/product) like
-- [ ]  See the **⋮⋮** to the left of this checkbox on hover? Click and drag to move this line
-- [ ]  Click the **+ New Page** button at the bottom of your sidebar to add a new page
-- [ ]  Click **Templates** in your sidebar to get started with pre-built pages
-- This is a toggle block. Click the little triangle to see more useful tips!
-    - [**notion.com/templates**](https://www.notion.so/templates): More templates built by the Notion community
-    - [**notion.com/help**](https://www.notion.so/help): ****Guides and FAQs for everything in Notion
-    - [**notion.com/guides**](http://notion.com/guides): Watch videos and read tutorials to become a Notion expert
+---
 
-👉 **Have a question?** Click the `?` at the bottom right for more guides, or to send us a message.
+[Movie List](https://www.notion.so/Movie-List-df49255d2c90433b9dc1023931533008?pvs=21)
+
+[Recipes](https://www.notion.so/7b6d7ae3454943deafe541a05154cfc2?pvs=21)
+
+## Life
+
+---
+
+[Yearly Goals](https://www.notion.so/Yearly-Goals-8e69b019a68b41c482a028ff83182f6f?pvs=21)
+
+[Travel Plans](https://www.notion.so/1b8e4e3af1c44b07b8223be899d4e954?pvs=21)
