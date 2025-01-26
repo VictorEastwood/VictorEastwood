@@ -1,6 +1,4 @@
-以下是去除竞赛和成绩内容后，专注于专业和方向的 GitHub 个人主页简介：  
 
----
 
 # 👋 Hello, I'm Shidong Wu (吴世栋)  
 
@@ -9,7 +7,6 @@
 🌟 Currently a **PhD Student at Southern University of Science and Technology (SUSTech)**.  
 💡 Passionate about **robotics**, **control systems**, and **artificial intelligence**, with a focus on advancing the field of intelligent robotic systems.  
 
----
 
 ## 🚀 About Me  
 - 🔬 **Research Focus**:  
@@ -22,7 +19,6 @@
   - Building a **dual-arm teleoperated inspection robot** with precision control.  
   - Current work on a **magnetic levitation system** for precision control studies.  
 
----
 
 ## 🛠️ Skills  
 - **Programming**:  C/C++, ROS/ROS 2 (Beginner, Learning) MATLAB.  
@@ -31,12 +27,10 @@
 - **Mechanical Design**: SolidWorks (Intermediate).  
 - **Embedded Systems**: Sensor Integration, Motor Control, BLDC with FOC.  
 
----
 
 ## 📫 Let's Connect!  
-- 🌐 [GitHub Portfolio](https://github.com/YourUsername)  
+- 🌐 [GitHub Portfolio](https://github.com/VictorEastwood)  
 - ✉️ Email: **3278588005@qq.com**  
  
 
----
 
