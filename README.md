@@ -30,7 +30,7 @@
 
 ## 📫 Let's Connect!  
 - 🌐 [GitHub Portfolio](https://github.com/VictorEastwood)  
-- ✉️ Email: **3278588005@qq.com**  
+- ✉️ Email: **epsilon5400@gmail.com**  
  
 
 
