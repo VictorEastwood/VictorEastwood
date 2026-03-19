@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Shidong Wu (吴世栋 / VictorEastwood)
+# 👋 Hello, I'm Shidong Wu
 
 🎓 **PhD Candidate @ Southern University of Science and Technology (SUSTech)**  
 🤖 **Research Focus: Multi-Robot Systems | Collaborative Localization | Active Perception & Optimization**  
