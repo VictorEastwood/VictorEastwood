@@ -7,7 +7,7 @@
 ---
 
 ## 🌟 About Me
-I am a direct-track PhD student at the **School of System Design and Intelligent Manufacturing (SDIM), SUSTech**. My research lies at the intersection of **robotics**, **optimization theory**, and **artificial intelligence**.
+I am a direct-track PhD student at the **School of Automation and Intelligent Manufacturing (AIM), SUSTech**. My research lies at the intersection of **robotics**, **optimization theory**, and **artificial intelligence**.
 
 Unlike traditional control-focused research, my current work explores **how robot swarms can actively optimize their geometric configurations to maximize localization accuracy**. I specialize in developing autonomous UAV platforms from scratch and designing intelligent algorithms for collaborative exploration and active sensing.
 
@@ -48,7 +48,7 @@ My research moves beyond static control laws to dynamic, intelligent behaviors i
 ## 🚀 Selected Projects & Experience
 
 ### **Autonomous UAV Swarm for GPS-Denied Collaborative Localization**
-*   **Role**: Lead Researcher & Platform Developer.
+*   **Role**: Researcher & Platform Developer.
 *   **Description**: Developed a multi-UAV system capable of estimating relative positions using only onboard odometry and inter-drone distance measurements.
 *   **Key Contributions**:
     *   Designed and built a custom lightweight UAV fleet optimized for indoor swarm experiments.
@@ -70,7 +70,7 @@ My research moves beyond static control laws to dynamic, intelligent behaviors i
 ## 📫 Let's Collaborate!
 I am passionate about bridging the gap between theoretical optimization and real-world robotic deployment. I welcome discussions on **swarm intelligence**, **cooperative perception**, and **embedded AI**.
 
-*   🏫 **Affiliation**: School of System Design and Intelligent Manufacturing, Southern University of Science and Technology (SUSTech), Shenzhen, China.
+*   🏫 **Affiliation**: School of Automation and Intelligent Manufacturing, Southern University of Science and Technology (SUSTech), Shenzhen, China.
 *   ✉️ **Email**: [12531441@mail.sustech.edu.cn](mailto:12531441@mail.sustech.edu.cn)
 *   🌐 **GitHub**: [github.com/VictorEastwood](https://github.com/VictorEastwood)
 *   💬 **Languages**: Mandarin (Native), English (Professional Working Proficiency).
